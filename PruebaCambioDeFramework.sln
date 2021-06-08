@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31321.278
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PruebaCambioDeFramework", "PruebaCambioDeFramework\PruebaCambioDeFramework.csproj", "{80E0CA8B-EEF7-482B-ADE5-E17D66DCA8B8}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPFNetFramerwork", "WPFNetFramerwork\WPFNetFramerwork.csproj", "{4FC5F7E7-CD43-43FB-B5B6-FF3F2D024FF8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPFCore", "WPFCore\WPFCore.csproj", "{25DBEFD8-DB16-4B47-A955-E9A2C5EC465C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +13,14 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{80E0CA8B-EEF7-482B-ADE5-E17D66DCA8B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{80E0CA8B-EEF7-482B-ADE5-E17D66DCA8B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{80E0CA8B-EEF7-482B-ADE5-E17D66DCA8B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{80E0CA8B-EEF7-482B-ADE5-E17D66DCA8B8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4FC5F7E7-CD43-43FB-B5B6-FF3F2D024FF8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4FC5F7E7-CD43-43FB-B5B6-FF3F2D024FF8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4FC5F7E7-CD43-43FB-B5B6-FF3F2D024FF8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4FC5F7E7-CD43-43FB-B5B6-FF3F2D024FF8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{25DBEFD8-DB16-4B47-A955-E9A2C5EC465C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{25DBEFD8-DB16-4B47-A955-E9A2C5EC465C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{25DBEFD8-DB16-4B47-A955-E9A2C5EC465C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{25DBEFD8-DB16-4B47-A955-E9A2C5EC465C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
